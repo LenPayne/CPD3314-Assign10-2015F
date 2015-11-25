@@ -24,15 +24,14 @@ package cpd3314.assign10.pkg2015f;
 /* 
  * Design a class named Employee. The class should keep the following
  * information in fields: 
- *   1) Employee name
- *   2) Employee number in the format XXX-L, where each X is a digit within the 
- *        range 0-9 and the L is a letter within the range A-M
- *   3) Hire date
+ *   1) Employee name (name:String)
+ *   2) Employee number (id:String) in the format XXX-L, where each X is a digit 
+ *         within the range 0-9 and the L is a letter within the range A-M
+ *   3) Hire date (hireDate:String)
  *
  * Write a no-arg constructor, and a complete constructor (eg- Employee(name, 
- * ID, hireDate)) and the appropriate accessor and mutator methods for the class.
+ * id, hireDate)) and the appropriate accessor and mutator methods for the class.
  */
-
 /**
  *
  * @author <ENTER YOUR NAME HERE>

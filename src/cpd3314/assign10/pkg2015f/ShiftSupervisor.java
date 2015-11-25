@@ -26,10 +26,11 @@ package cpd3314.assign10.pkg2015f;
  * to a salary, the shift supervisor earns a yearly bonus when his or her shift
  * meets production goals. Design a ShiftSupervisor class that extends the
  * Employee class. The ShiftSupervisor class should have a field that holds the
- * annual salary (double) and a field that holds the annual production bonus
- * (double) that a shift supervisor has earned. Write a no-arg constructor and a
- * complete constructor (eg- ShiftSupervisor(name, ID, hireDate, salary,
- * bonusEarned)) and the appropriate accessor and mutator methods for the class.
+ * annual salary (salary:double) and a field that holds the annual production
+ * bonus (bonusEarned:double) that a shift supervisor has earned. Write a no-arg
+ * constructor and a complete constructor (eg- ShiftSupervisor(name, id,
+ * hireDate, salary, bonusEarned)) and the appropriate accessor and mutator
+ * methods for the class.
  */
 /**
  *

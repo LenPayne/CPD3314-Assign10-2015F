@@ -26,12 +26,12 @@ package cpd3314.assign10.pkg2015f;
  * addition to hourly pay, team leaders earn a fixed monthly bonus. Team leaders
  * are required to attend a minimum number of hours of training per year. Design
  * a TeamLeader class that extends the ProductionWorker class. The TeamLeader
- * class should have fields for the monthly bonus amount (double), the required
- * number of training hours (int), and the number of training hours that the tam
- * leader has attended (int). Write a no-arg constructor and a complete
- * constructor (eg- TeamLeader(name, ID, hireDate, shift, hourlyRate, bonus,
- * requiredTraining, attendedTraining)) and the appropriate accessor and mutator
- * methods for the class.
+ * class should have fields for the monthly bonus amount (bonus:double), the
+ * required number of training hours (requiredTraining:int), and the number of
+ * training hours that the tam leader has attended (attendedTraining:int). Write
+ * a no-arg constructor and a complete constructor (eg- TeamLeader(name, id,
+ * hireDate, shift, hourlyRate, bonus, requiredTraining, attendedTraining)) and
+ * the appropriate accessor and mutator methods for the class.
  */
 /**
  *
